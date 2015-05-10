@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#pycharm
+.idea*
+
+#vagrant
+.vagrant*
+
+#project
+site_config.py
